@@ -1,4 +1,4 @@
-# My Json Placeholder
+# My Json Server
 
 Visit <https://my-json-server.typicode.com/xhxgit/my-json-server> to access
 
