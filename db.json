@@ -2,33 +2,23 @@
     "products": [
         {
             "id": 1,
-            "title": "Apple MacBook",
-            "price": 6900.0,
-            "stock": 50
+            "text": "Apple MacBook"
         },
         {
             "id": 2,
-            "title": "乐事薯片",
-            "price": 5.0,
-            "stock": 800
+            "text": "乐事薯片"
         },
         {
             "id": 3,
-            "title": "小米手环",
-            "price": 200.0,
-            "stock": 150
+            "text": "小米手环"
         },
         {
             "id": 4,
-            "title": "Giant山地车",
-            "price": 1500.0,
-            "stock": 60
+            "text": "Giant山地车"
         },
         {
             "id": 5,
-            "title": "Adidas运动鞋",
-            "price": 500.0,
-            "stock": 100
+            "text": "Adidas运动鞋"
         }
     ]
 }
