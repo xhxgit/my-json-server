@@ -1,23 +1,18 @@
 {
     "products": [
         {
-            "id": 1,
             "text": "Apple MacBook"
         },
         {
-            "id": 2,
             "text": "乐事薯片"
         },
         {
-            "id": 3,
             "text": "小米手环"
         },
         {
-            "id": 4,
             "text": "Giant山地车"
         },
         {
-            "id": 5,
             "text": "Adidas运动鞋"
         }
     ]
